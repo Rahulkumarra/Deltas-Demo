@@ -1,2 +1,2 @@
 # Deltas-Demo
-Here the Demo  of Git hub function in Delta batch 
+Here the Demo  of Git hub function in Delta batchs
